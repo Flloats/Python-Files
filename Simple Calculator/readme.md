@@ -1,0 +1,1 @@
+This code prompts the user to input two numbers, "n1" and "n2", and an operator, "op". It then checks the operator input using an "if" statement and performs the corresponding mathematical operation (addition, subtraction, division, or multiplication) using the input numbers. The result of the operation is then printed to the screen.

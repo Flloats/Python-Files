@@ -1,0 +1,5 @@
+This code is a program that calculates statistics for a class of students' math grades. The program first defines the function "LerDados()" which prompts the user to input a grade for a student, and checks if the grade is within the range of 0 to 20. If the grade is outside of this range, the user is prompted to enter a valid grade. The function then returns the valid grade.
+
+The program also defines the functions "media()" and "perc()" which calculate the average of all grades and the percentage of positive and negative grades, respectively.
+
+The "calc()" function then uses a for loop to prompt the user to input the grades for all students in the class, and calculates the average, the percentage of positive and negative grades, and the highest and lowest grades. The program then enters a while loop that allows the user to access the statistics by inputting a number from 1-4. Choosing option 1 displays the average, option 2 displays the percentage of positive and negative grades, option 3 displays the highest and lowest grades, and option 4 exits the program.
